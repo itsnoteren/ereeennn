@@ -2,6 +2,6 @@
 ### Hi there 👋, My name is Eren
 #### I'm a helper in AsenaDev team
 
-i'm trying to be a developer
+I'm trying to be a developer
 
 Skills:  PHP / JS / CSS / HTML
